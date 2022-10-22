@@ -1,2 +1,2 @@
-# -
-主要架构: SparkSQL+Hadoop+Sqoop+Hive+Dolphinscheduler
+
+最近练习的一些SQL题
